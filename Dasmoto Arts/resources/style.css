@@ -1,0 +1,47 @@
+h1, h2, h3, p {
+  font-family: Helvetica, sans-serif;
+}
+
+h1, h2, span {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url('./pattern.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+#brushes h2 {
+  font-size: 32px;
+  color: white;
+  background-color: mediumspringgreen;
+  background-size: cover;
+  background-position: center;
+  height: 36px;
+}
+
+#frames h2 {
+  font-size: 32px;
+  color: white;
+  background-color: lightcoral;
+  background-size: cover;
+  background-position: center;
+  height: 36px;
+}
+
+#paint h2 {
+  font-size: 32px;
+  color: white;
+  background-color: skyblue;
+  background-size: cover;
+  background-position: center;
+  height: 36px;
+}
+
+span {
+  color: blue;
+}
